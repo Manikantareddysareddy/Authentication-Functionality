@@ -1,0 +1,12 @@
+.header-container {
+  display: flex;
+  flex-direction: row;
+  margin-left: 10px;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  margin-left: 10px;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
